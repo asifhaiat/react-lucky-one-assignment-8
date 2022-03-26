@@ -29,8 +29,8 @@ const Cart = () => {
                                 <td>{item.price}</td>
                                 <td>Quantity: ({item.quantity})</td>
                                 <td>
-                                    <button className='btn btn-info ms-2' onClick={() => updateItemQuantity(item.id, item.quantity - 1)}>Choose One for Me</button>
-                                    <button className='btn btn-info  ms-2' onClick={() => updateItemQuantity(item.id, item.quantity + 1)}>Choose Again!</button>
+                                    <button className='btn btn-info ms-2' onClick={() => updateItemQuantity(item.id, item.quantity - 1)}>CHOOSE 1 FOR ME</button>
+                                    <button className='btn btn-info  ms-2' onClick={() => updateItemQuantity(item.id, item.quantity + 1)}>CHOOSE AGAIN</button>
                                     <button className='btn btn-warning ms-2' onClick={() => removeItem(item.id)}>Remove Item</button>
                                 </td>
                             </tr>)
@@ -39,12 +39,14 @@ const Cart = () => {
                     </table>
                 </div>
                 <div className='col-auto ms-auto'>
-                    <h2>Total Price: $ {cartTotal}</h2>
+                    <h3>Total Price: $ {cartTotal}</h3>
                 </div>
-                {/* <div className='col-auto'>
-                    <button className='btn btn-warning' onClick={() => emptyCart()}>Clear Cart</button>
-                    <button className='btn btn-success m-2' onClick={() => emptyCart()}>Buy Now</button>
-                </div> */}
+                <div>
+                    <h4>Difference between State and Props</h4>
+                    <p>In react, both state and props are used to govern data entering a component; props are often established by the parent and supplied to child components, and they are constant throughout the component. We must utilize state for data that is likely to change. Because props are immutable and states are changeable, you may alter props from the parent component and then pass it on to the child components.</p>
+                    <h4>How useState works in React?</h4>
+                    <p>useState is a Hook (function) that enables state variables to be used in functional components. This function receives the starting state and returns a variable with the current state value as well as another function to update this value.</p>
+                </div>
             </div>
         </section>
     );
