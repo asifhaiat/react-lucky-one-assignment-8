@@ -1,5 +1,6 @@
 import React from 'react';
 import { useCart } from 'react-use-cart';
+
 const ItemsCard = (props) => {
     const {addItem} = useCart();
     return (
