@@ -1,5 +1,5 @@
 #Assignment-8
-## live site on netlify : 
+## live site on netlify : (https://legendary-shortbread-7cb45d.netlify.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
