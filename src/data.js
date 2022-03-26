@@ -15,85 +15,85 @@ const data = {
         {
             id: 1,
             img: img1,
-            title: 'Black Pen',
+            title: 'Charcoal',
             price: 7,
             desc: 'This Pen looks very nice'
         },
         {
             id: 2,
             img: img2,
-            title: 'Black Pen',
-            price: 7,
+            title: 'Fountain Pen',
+            price: 10,
             desc: 'This Pen looks very nice'
         },
         {
             id: 3,
             img: img3,
-            title: 'Black Pen',
-            price: 7,
+            title: 'Awesome Fountain Pen',
+            price: 12,
             desc: 'This Pen looks very nice'
         },
         {
             id: 4,
             img: img4,
-            title: 'Black Pen',
-            price: 7,
+            title: '2B Pencil',
+            price: 3,
             desc: 'This Pen looks very nice'
         },
         {
             id: 6,
             img: img6,
-            title: 'Black Pen',
-            price: 7,
+            title: 'Graphite Pencil',
+            price: 4,
             desc: 'This Pen looks very nice'
         },
         {
             id: 7,
             img: img7,
-            title: 'Black Pen',
+            title: 'Carbon Pencil',
             price: 7,
             desc: 'This Pen looks very nice'
         },
         {
             id: 8,
             img: img8,
-            title: 'Black Pen',
-            price: 7,
+            title: 'Cotton Pillow',
+            price: 13,
             desc: 'This Pen looks very nice'
         },
         {
             id: 9,
             img: img9,
-            title: 'Black Pen',
-            price: 7,
+            title: 'Feather Pillow',
+            price: 17,
             desc: 'This Pen looks very nice'
         },
         {
             id: 10,
             img: img10,
-            title: 'Black Pen',
-            price: 7,
+            title: 'Solid graphite pencils',
+            price: 9,
             desc: 'This Pen looks very nice'
         },
         {
             id: 11,
             img: img11,
-            title: 'Black Pen',
-            price: 7,
+            title: 'Latex Pillow',
+            price: 11,
             desc: 'This Pen looks very nice'
         },
         {
             id: 12,
             img: img12,
-            title: 'Black Pen',
-            price: 7,
+            title: 'Cartridge Fountain Pen',
+            price: 9,
             desc: 'This Pen looks very nice'
         },
         {
             id: 13,
             img: img13,
-            title: 'Black Pen',
-            price: 7,
+            title: 'Down Pillow',
+            price: 12,
             desc: 'This Pen looks very nice'
         }
     ],
