@@ -1,0 +1,18 @@
+.header{
+    
+    background-color: rgb(235, 131, 13);
+    height: 80px;
+    padding: 2px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 40px;
+    color: wheat;
+    text-shadow: 3px 2px 5px gold;
+    border-radius: 10px;
+    
+}
+.header h1{
+    text-align: center;
+    font-weight:700;
+}
