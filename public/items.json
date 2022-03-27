@@ -1,0 +1,75 @@
+[
+    {
+            "id": 1,
+            "img": "https://i.ibb.co/WGw2WFQ/img-2.jpg",
+            "title": "Charcoal",
+            "price": 7
+            
+    },
+        {
+            "id": 2,
+            "img": "https://i.ibb.co/7gpGHj9/img-3.jpg",
+            "title": "Fountain Pen",
+            "price": 10
+        },
+    {
+            "id": 3,
+            "img": "https://i.ibb.co/PM9hRSD/img-4.jpg",
+            "title": "HB Pencil",
+            "price": 12
+    },
+        {
+            "id": 4,
+            "img": "https://i.ibb.co/yqgqrQb/img-1.jpg",
+            "title": "2B Pencil",
+            "price": 3
+        },
+    {
+            "id": 6,
+            "img": "https://i.ibb.co/3YjDb9Y/img-6.jpg",
+            "title": "Graphite Pencil",
+            "price": 4
+    },
+        {
+            "id": 7,
+            "img": "https://i.ibb.co/LYYfgzn/img-7.jpg",
+            "title": "Carbon Pencil",
+            "price": 7
+        },
+    {
+            "id": 8,
+            "img": "https://i.ibb.co/3TfQTXd/img-8.jpg",
+            "title": "Cotton Pillow",
+            "price": 13
+    },
+        {
+            "id": 9,
+            "img": "https://i.ibb.co/GcB98VM/img-9.jpg",
+            "title": "Feather Pillow",
+            "price": 17
+        },
+    {
+            "id": 10,
+            "img": "https://i.ibb.co/98LrtX1/img-10.jpg",
+            "title": "Solid graphite pencils",
+            "price": 9
+    },
+        {
+            "id": 11,
+            "img": "https://i.ibb.co/hC9twbg/img-11.jpg",
+            "title": "Latex Pillow",
+            "price": 11
+        },
+    {
+            "id": 12,
+            "img": "https://i.ibb.co/NLyv5D8/img-12.jpg",
+            "title": "Cartridge Fountain Pen",
+            "price": 9
+    },
+        {
+            "id": 13,
+            "img": "https://i.ibb.co/wwmFwnY/img-13.jpg",
+            "title": "Down Pillow",
+            "price": 12
+        }
+]
