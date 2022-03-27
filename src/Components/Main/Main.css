@@ -1,0 +1,54 @@
+.cart-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.main{
+    display:grid;
+    grid-template-columns: 4fr 1fr;
+}
+.cart-container img{
+    height:250px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.card{
+    
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.car-info{
+    padding-left: 14px;
+    font-weight:700;
+    
+}
+.btn-card{
+    width: 100%;
+    background:rgb(236, 64, 98);
+    height: 45px;
+    border-radius:  4px;
+    text-align: center;
+    border: none;
+    transition:1s,
+}
+.btn-card:hover{
+    background-color: darkslateblue;
+    color: antiquewhite;
+}
+@media screen and (max-width: 768px) {
+    .cart-container{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .main{
+        display:grid;
+        grid-template-columns: 5fr;
+    }
+    .cart-container img{
+        height:250px;
+        width: 330px;
+        padding: 10px;
+    }
+
+}
