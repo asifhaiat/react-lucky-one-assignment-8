@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.answers{
+  margin-left: 20px;
+  margin-right: 40px;
+  text-align: justify;
+}
+.btn-cart:hover{
+  transition: 1s;
+  background-color: indianred;
+  color: antiquewhite;
+
+}
+.btn-cart{
+  margin-left: 15px;
+}

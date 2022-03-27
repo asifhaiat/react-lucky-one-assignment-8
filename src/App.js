@@ -64,7 +64,12 @@ function App() {
       </div>
     </div>
       
-      
+      <div className="answers">
+        <h4>Difference between State and Props</h4>
+        <p>In react, both state and props are used to govern data entering a component; props are often established by the parent and supplied to child components, and they are constant throughout the component. We must utilize state for data that is likely to change. Because props are immutable and states are changeable, you may alter props from the parent component and then pass it on to the child components.</p>
+        <h4>How useState works in React?</h4>
+        <p>useState is a Hook (function) that enables state variables to be used in functional components. This function receives the starting state and returns a variable with the current state value as well as another function to update this value.</p>
+        </div>
     </div>
   );
 }

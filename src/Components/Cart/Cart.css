@@ -1,0 +1,38 @@
+.cart img {
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    margin: 0 2px;
+}
+.cart{
+    margin-top: 30px;
+    width: 200px;
+    margin-left: 10px;
+}
+.cart-info{
+    line-height:8px;
+    margin-left: 5px;
+}
+.btn-cart{
+    background-color: wheat;
+    color: darkslategrey;
+    width: 150px; 
+    height: 40px;
+    font-size:13px;
+    border:none;
+    border-radius:10px;
+    font-weight: 700;
+    margin-top: 30px;
+
+}
+
+
+@media screen and (max-width:  500px) {
+    .btn-cart{
+        margin-left: 10px;
+    }
+    
+}
+.color{
+    color: crimson;
+}
